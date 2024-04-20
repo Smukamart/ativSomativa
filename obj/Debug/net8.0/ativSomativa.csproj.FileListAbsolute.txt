@@ -1,0 +1,14 @@
+/home/samuel/Documents/Programação/CSharp/ativSomativa/bin/Debug/net8.0/ativSomativa
+/home/samuel/Documents/Programação/CSharp/ativSomativa/bin/Debug/net8.0/ativSomativa.deps.json
+/home/samuel/Documents/Programação/CSharp/ativSomativa/bin/Debug/net8.0/ativSomativa.runtimeconfig.json
+/home/samuel/Documents/Programação/CSharp/ativSomativa/bin/Debug/net8.0/ativSomativa.dll
+/home/samuel/Documents/Programação/CSharp/ativSomativa/bin/Debug/net8.0/ativSomativa.pdb
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ativSomativa.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ativSomativa.AssemblyInfoInputs.cache
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ativSomativa.AssemblyInfo.cs
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ativSomativa.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ativSomativa.dll
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/refint/ativSomativa.dll
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ativSomativa.pdb
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ativSomativa.genruntimeconfig.cache
+/home/samuel/Documents/Programação/CSharp/ativSomativa/obj/Debug/net8.0/ref/ativSomativa.dll
